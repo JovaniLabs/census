@@ -47,4 +47,4 @@ where FILENAME is the name of the file containing your SQL query. For example,
 Keep in mind you can also use
 
 DROP VIEW name;
-where name is the name of your view, to remove a view before creating it anew.
+where name is the name of your view, to remove a view before creating it anew."
